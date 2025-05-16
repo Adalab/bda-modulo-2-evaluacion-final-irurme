@@ -1,6 +1,3 @@
-# bda-modulo-2-evaluacion-final-irurme
-bda-modulo-2-evaluacion-final-irurme created by GitHub Classroom
-
 ## 📝 Descripción
 
 Este repositorio contiene la solución a la **evaluación final del Módulo 2** del curso Data Anlyst de **Adalab** (promor 52 - Julia Salander). El ejercicio está centrado en consultas SQL utilizando la base de datos **Sakila**, que simula una tienda de alquiler de películas.
